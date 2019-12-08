@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/bin/Debug/netcoreapp3.0/EnterLowercaseLetter
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/bin/Debug/netcoreapp3.0/EnterLowercaseLetter.deps.json
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/bin/Debug/netcoreapp3.0/EnterLowercaseLetter.runtimeconfig.json
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/bin/Debug/netcoreapp3.0/EnterLowercaseLetter.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/bin/Debug/netcoreapp3.0/EnterLowercaseLetter.dll
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/bin/Debug/netcoreapp3.0/EnterLowercaseLetter.pdb
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/obj/Debug/netcoreapp3.0/EnterLowercaseLetter.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/obj/Debug/netcoreapp3.0/EnterLowercaseLetter.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/obj/Debug/netcoreapp3.0/EnterLowercaseLetter.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/obj/Debug/netcoreapp3.0/EnterLowercaseLetter.dll
+/Users/Annie/C#/Chapter 5/EnterLowercaseLetter/EnterLowercaseLetter/obj/Debug/netcoreapp3.0/EnterLowercaseLetter.pdb

@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/bin/Debug/netcoreapp3.0/HomeSales
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/bin/Debug/netcoreapp3.0/HomeSales.deps.json
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/bin/Debug/netcoreapp3.0/HomeSales.runtimeconfig.json
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/bin/Debug/netcoreapp3.0/HomeSales.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/bin/Debug/netcoreapp3.0/HomeSales.dll
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/bin/Debug/netcoreapp3.0/HomeSales.pdb
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/obj/Debug/netcoreapp3.0/HomeSales.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/obj/Debug/netcoreapp3.0/HomeSales.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/obj/Debug/netcoreapp3.0/HomeSales.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/obj/Debug/netcoreapp3.0/HomeSales.dll
+/Users/Annie/C#/Chapter 5/HomeSales/HomeSales/obj/Debug/netcoreapp3.0/HomeSales.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2A2F767D-4514-489C-8FF5-0E4DCF8E2226}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnterLowercaseLetter/Program.cs">
+    <Files>
+      <File FileName="EnterLowercaseLetter/Program.cs" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnterLowercaseLetter" expanded="True">
+            <Node name="EnterLowercaseLetter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EnterLowercaseLetter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

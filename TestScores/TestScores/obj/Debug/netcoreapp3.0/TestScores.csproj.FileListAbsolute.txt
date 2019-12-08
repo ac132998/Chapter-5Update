@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/bin/Debug/netcoreapp3.0/TestScores
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/bin/Debug/netcoreapp3.0/TestScores.deps.json
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/bin/Debug/netcoreapp3.0/TestScores.runtimeconfig.json
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/bin/Debug/netcoreapp3.0/TestScores.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/bin/Debug/netcoreapp3.0/TestScores.dll
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/bin/Debug/netcoreapp3.0/TestScores.pdb
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/obj/Debug/netcoreapp3.0/TestScores.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/obj/Debug/netcoreapp3.0/TestScores.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/obj/Debug/netcoreapp3.0/TestScores.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/obj/Debug/netcoreapp3.0/TestScores.dll
+/Users/Annie/C#/Chapter 5/TestScores/TestScores/obj/Debug/netcoreapp3.0/TestScores.pdb
