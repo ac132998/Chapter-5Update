@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{2179ED12-A0EB-441F-8782-59D5032C5C63}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DisplayMulitplicationTable/Program.cs">
     <Files>
-      <File FileName="DisplayMulitplicationTable/Program.cs" Line="27" Column="2" />
+      <File FileName="DisplayMulitplicationTable/Program.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DisplayMulitplicationTable FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DisplayMulitplicationTable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -6,6 +6,8 @@ namespace HomeSales
     {
         static void Main(string[] args)
         {
+
+
             string salesInitial = null;
             int sale;
             int totalsalePersonD = 0;
@@ -15,21 +17,22 @@ namespace HomeSales
 
             while (salesInitial != "Z" || salesInitial != "z")
             {
-               
+
+
                 Console.WriteLine("Enter Saleperson initial D, E, or F >>> ");
                 salesInitial = Console.ReadLine();
                 Console.WriteLine("Enter amount sold >>> ");
                 sale = Convert.ToInt32(Console.ReadLine());
 
-                if (salesInitial == "D" && salesInitial == "d")
+                if (salesInitial == "D" || salesInitial == "d")
                 {
                     totalsalePersonD = totalsalePersonD + sale;
                 }
-                else if (salesInitial == "E" && salesInitial == "e")
+                else if (salesInitial == "E" || salesInitial == "e")
                 {
                     totalsalePersonE = totalsalePersonE + sale;
                 }
-                else if (salesInitial == "F" && salesInitial == "f")
+                else if (salesInitial == "F" || salesInitial == "f")
                 {
                     totalsalePersonF = totalsalePersonF + sale;
                 }
@@ -40,6 +43,7 @@ namespace HomeSales
                 }
 
                 total = totalsalePersonD + totalsalePersonE + totalsalePersonF;
+            
                 Console.WriteLine("The grand total of sales is " + total);
 
                 if (totalsalePersonD > totalsalePersonE && totalsalePersonD > totalsalePersonF)
@@ -60,8 +64,10 @@ namespace HomeSales
                 {
                     Console.WriteLine("All the sales people sold the same amount");
                 }
-            }
+
+            }       
 
         }
+        
     }
 }

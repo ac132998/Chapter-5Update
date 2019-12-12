@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/bin/Debug/netcoreapp3.0/GuessinGame3
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/bin/Debug/netcoreapp3.0/GuessinGame3.deps.json
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/bin/Debug/netcoreapp3.0/GuessinGame3.runtimeconfig.json
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/bin/Debug/netcoreapp3.0/GuessinGame3.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/bin/Debug/netcoreapp3.0/GuessinGame3.dll
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/bin/Debug/netcoreapp3.0/GuessinGame3.pdb
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/obj/Debug/netcoreapp3.0/GuessinGame3.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/obj/Debug/netcoreapp3.0/GuessinGame3.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/obj/Debug/netcoreapp3.0/GuessinGame3.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/obj/Debug/netcoreapp3.0/GuessinGame3.dll
+/Users/Annie/C#/Chapter 5/GuessinGame3/GuessinGame3/obj/Debug/netcoreapp3.0/GuessinGame3.pdb

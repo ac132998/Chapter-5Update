@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/bin/Debug/netcoreapp3.0/DisplayMulitplicationTable
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/bin/Debug/netcoreapp3.0/DisplayMulitplicationTable.deps.json
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/bin/Debug/netcoreapp3.0/DisplayMulitplicationTable.runtimeconfig.json
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/bin/Debug/netcoreapp3.0/DisplayMulitplicationTable.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/bin/Debug/netcoreapp3.0/DisplayMulitplicationTable.dll
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/bin/Debug/netcoreapp3.0/DisplayMulitplicationTable.pdb
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/obj/Debug/netcoreapp3.0/DisplayMulitplicationTable.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/obj/Debug/netcoreapp3.0/DisplayMulitplicationTable.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/obj/Debug/netcoreapp3.0/DisplayMulitplicationTable.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/obj/Debug/netcoreapp3.0/DisplayMulitplicationTable.dll
+/Users/Annie/C#/Chapter 5/DisplayMulitplicationTable/DisplayMulitplicationTable/obj/Debug/netcoreapp3.0/DisplayMulitplicationTable.pdb

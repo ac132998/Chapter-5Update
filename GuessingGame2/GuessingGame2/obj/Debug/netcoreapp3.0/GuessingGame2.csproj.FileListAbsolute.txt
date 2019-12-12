@@ -1,0 +1,11 @@
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/bin/Debug/netcoreapp3.0/GuessingGame2
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/bin/Debug/netcoreapp3.0/GuessingGame2.deps.json
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/bin/Debug/netcoreapp3.0/GuessingGame2.runtimeconfig.json
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/bin/Debug/netcoreapp3.0/GuessingGame2.runtimeconfig.dev.json
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/bin/Debug/netcoreapp3.0/GuessingGame2.dll
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/bin/Debug/netcoreapp3.0/GuessingGame2.pdb
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/obj/Debug/netcoreapp3.0/GuessingGame2.csprojAssemblyReference.cache
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/obj/Debug/netcoreapp3.0/GuessingGame2.AssemblyInfoInputs.cache
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/obj/Debug/netcoreapp3.0/GuessingGame2.AssemblyInfo.cs
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/obj/Debug/netcoreapp3.0/GuessingGame2.dll
+/Users/Annie/C#/Chapter 5/GuessingGame2/GuessingGame2/obj/Debug/netcoreapp3.0/GuessingGame2.pdb
