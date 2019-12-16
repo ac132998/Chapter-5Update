@@ -6,19 +6,25 @@ namespace DisplayMulitplicationTable
     {
         static void Main(string[] args)
         {
-            int product;
-            
-
+       
             for (int i = 1; i < 11; ++i)
             {
+               
+
                 for (int m = 1; m < 11; ++m)
                 {
-                    product = i * m;
-                    Console.Write(product + " ");
-                    
-
+                   if (m == 10)
+                   {
+                      Console.WriteLine(" {0}", i * m);
+                   }
+                   else
+                    {
+                        Console.Write(" {0} ", i * m);
+                    }
                 }
+                
             }
+            
 
 
         }
